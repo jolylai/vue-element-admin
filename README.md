@@ -4,6 +4,12 @@
 
 Element-plus + Vue 3.0 + TypeScript + Vue Router + VueX
 
+- [Vue 3](https://vue3js.cn/)
+- [element-plus](https://element-plus.gitee.io/#/zh-CN/component/quickstart)
+- [element-plus](https://github.com/element-plus/element-plus)
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)
+
 ## Todo
 
 - [ ] Dashboard
